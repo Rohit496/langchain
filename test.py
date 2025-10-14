@@ -1,6 +1,3 @@
-def word_count(text):
-    return text.split()
+import math
 
-
-result = word_count("This is a sample text")
-print(result)
+print((int(math.sqrt(16)), math.factorial(5)))
