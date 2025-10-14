@@ -75,8 +75,8 @@ Jupyter notebooks for interactive learning and experimentation
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Rohit496/lanchain.git
-cd lanchain
+git clone https://github.com/Rohit496/langchain.git
+cd langchain
 ```
 
 2. **Create virtual environment:**
